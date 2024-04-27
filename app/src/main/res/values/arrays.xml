@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="serialportArray">
+        <item>com0</item>
+        <item>com1</item>
+        <item>com2</item>
+        <item>com3</item>
+        <item>com4</item>
+        <item>com5</item>
+        <item>com6</item>
+        <item>com7</item>
+        <item>com8</item>
+        <item>com9</item>
+        <item>com10</item>
+        <item>com11</item>
+        <item>com12</item>
+        <item>com13</item>
+        <item>com14</item>
+        <item>com15</item>
+    </string-array>
+    <string-array name="buadrateArray">
+        <item>1200</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>14400</item>
+        <item>19200</item>
+        <item>28800</item>
+        <item>38400</item>
+        <item>56000</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>128000</item>
+        <item>256000</item>
+    </string-array>
+        <string-array name="powerArray">
+        <item>3.3V</item>
+        <item>5V</item>
+        <item>scan power</item>
+        <item>psam power</item>
+        <item>rfid power</item>
+
+    </string-array>
+
+</resources>
